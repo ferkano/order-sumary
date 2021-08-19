@@ -3,7 +3,7 @@
 		margin: auto;
 	}
 	.container{
-		background-image: url(./img/pattern-background-desktop.SVG) no-repeat fixed center;
+		background-image: url(./img/pattern-background-desktop.SVG);
 		width: 100vw;
 		height: 100vh;
 		background-size: cover;
