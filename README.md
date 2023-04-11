@@ -1,4 +1,4 @@
-## Stats-card
+## Order sumary
 
 ##### It's a frontendmentor challenge.
 
